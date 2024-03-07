@@ -1,0 +1,7 @@
+# ninja log v5
+159	1127	670000568	CMakeFiles/P5v5ARL.dir/Strategy/src/stdafx.cpp.obj	65d68beec1b5e417
+0	1143	670000568	CMakeFiles/P5v5ARL.dir/Strategy/src/dllmain.cpp.obj	d0b141bf12bc8f55
+242	1421	670000568	CMakeFiles/P5v5ARL.dir/Strategy/src/BaseRobot.cpp.obj	31cfdfacc02d589c
+79	1672	670000568	CMakeFiles/P5v5ARL.dir/Strategy/src/main.cpp.obj	5130e5423ab50c8c
+1675	4320	670000571	P5v5ARL.dll	6f31dcb07ea15a89
+1675	4320	670000571	P5v5ARL.lib	6f31dcb07ea15a89

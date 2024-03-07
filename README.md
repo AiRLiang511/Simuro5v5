@@ -3,9 +3,7 @@
 
 ## 项目介绍
 
-- 工程构建方法：cmack
-  - cmake：构建的项目文件 **CMakeLists.txt**
-- 项目打开方式：在文件夹右键，使用visual studio打开，等待cmake分析结束
+
 - 项目文件介绍：
   1. out：项目构建生成的文件，包括最后生成的动态链接库
   2. Strategy：代码文件
